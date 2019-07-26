@@ -33,11 +33,9 @@ p {
   margin-right: auto;width: 800px;
 }
 
-#details {
-  display: block;
-}
 
- div {
+
+ #details div {
   text-align: center;
   background-color: red;
   float: left;
